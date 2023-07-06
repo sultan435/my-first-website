@@ -1,0 +1,25 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+/* nav ber section */
+.manu-container{
+    display: flex;
+    justify-content: space-around;
+    background-color: rgb(51, 49, 49);
+    color: white;
+    padding: 12px;
+}
+.logo{
+    width: 100px;
+    padding: 5px;
+}
+.manus{
+    display: flex;
+    list-style: none;
+}
+.items{
+    margin-left: 17px;
+    padding: 5px;
+    font-size: 18px;
+}
