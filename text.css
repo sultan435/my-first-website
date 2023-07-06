@@ -61,3 +61,32 @@
     color: white;
 }
 /* banar section end form here */
+
+/* about section start form here */
+
+.about-us-container{
+    display: flex;
+    justify-content: space-around;
+    
+    padding: 25px;
+    margin-top: 20px;
+    flex-direction: row-reverse;
+}
+.about-us{
+    text-align: center;
+    padding: 20px;
+}
+.about-us-images{
+    width: 300px;
+}
+.second-title{
+    font-size: 25px;
+    margin-top: 50px;
+}
+.about-us-title{
+    font-size: 40px;
+    text-align: center;
+    margin-top: 10px;
+}
+
+/* about section end form here */
